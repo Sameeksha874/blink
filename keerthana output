@@ -1,0 +1,128 @@
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 1
+Enter data to insert at front: 10
+Node inserted at front successfully.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 1
+Enter data to insert at front: 20
+Node inserted at front successfully.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 4
+Enter data to insert at end: 30
+Node inserted at end successfully.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 2
+Enter the key node value: 20
+Enter data to insert: 25
+Node inserted to the right of 20.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 6
+CSLL Elements: 20 -> 25 -> 10 -> 30 -> (back to start)
+Total nodes = 4
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 3
+Enter the key node value: 20
+Node 25 deleted which was right to 20.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 6
+CSLL Elements: 20 -> 10 -> 30 -> (back to start)
+Total nodes = 3
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 5
+Deleted node 30 from end.
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 6
+CSLL Elements: 20 -> 10 -> (back to start)
+Total nodes = 2
+
+--- Circular Singly Linked List Menu ---
+1. Create CSLL using front insertion
+2. Insert to the right of given node
+3. Delete to the right of given node
+4. Insert at end
+5. Delete at end
+6. Display and count nodes
+7. Exit
+----------------------------------------
+Enter your choice: 7
+Exiting program...
